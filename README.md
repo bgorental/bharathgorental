@@ -2,7 +2,7 @@
 - 😎 I’m interested in Web Design & Development 
 - 🌱 I’m currently learning Angular
 - 🧐 I’m looking to collaborate on Web Application Development
-- 📫 How to reach me bharathgorental@gmail.com
+- 📫 How to reach me bgorental@gmail.com
 
 <!---
 bharathgorental/bharathgorental is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
