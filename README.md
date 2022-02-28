@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bharathgorental
 - 😎 I’m interested in Web Design & Development 
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently Working as UI Engineer | Angular
 - 🧐 I’m looking to collaborate on Web Application Development
 - 📫 How to reach me bgorental@gmail.com
 
